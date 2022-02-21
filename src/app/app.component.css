@@ -1,0 +1,16 @@
+.form-column{
+    background-color: darkgray;
+    border: 1px solid #000;
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    
+}
+.container-fluid{
+    height: 100vh;
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+    display: block;
+    position: relative;
+}
